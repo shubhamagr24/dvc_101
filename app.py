@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-import boto3
+# import boto3
 from io import StringIO
 
 # Create a sample DataFrame with column names
